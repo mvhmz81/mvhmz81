@@ -8,7 +8,7 @@
 mvhmz81/mvhmz81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Currently completed a bootcamp in software development see below for breakdown.
+## Currently completed an intensive course in full stack software development see below for breakdown.
 ### Studying at the School of Code, Full stack developer in JavaScript.
 #### 16-week intensive bootcamp in full stack JavaScript development.
 * Weeks 1-3: Computational Thinking & Problem Solving with JavaScript - Fundamentals of JavaScript, interacting with APIs, Git, and GitHub fundamentals.
