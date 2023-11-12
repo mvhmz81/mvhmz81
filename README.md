@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...at the school of code to become a full stack developer
 - 💞️ I’m looking to collaborate on ...anything that will help me progress and learn about tech
 - 📫 How to reach me ...muktizavery@gmail.com
+-  or check me out on https://muktizavery.netlify.com
 
 <!---
 mvhmz81/mvhmz81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
